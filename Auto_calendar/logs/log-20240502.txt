@@ -1,0 +1,15 @@
+2024-05-02 08:57:31.285 +07:00 [Information] [] [] Starting up
+2024-05-02 08:57:34.329 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/" responded 200 in 263.0431 ms
+2024-05-02 08:57:34.395 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/bootstrap/bootstrap.min.css" responded 304 in 8.6072 ms
+2024-05-02 08:57:34.395 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/css/standard-base.css" responded 304 in 15.5929 ms
+2024-05-02 08:57:34.395 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_framework/blazor.server.js" responded 304 in 13.5296 ms
+2024-05-02 08:57:34.395 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/site.css" responded 304 in 15.6354 ms
+2024-05-02 08:57:34.395 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/Radzen.Blazor.js" responded 304 in 8.6000 ms
+2024-05-02 08:57:34.403 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/Auto_calendar.styles.css" responded 200 in 23.4654 ms
+2024-05-02 08:57:34.415 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/open-iconic/font/css/open-iconic-bootstrap.min.css" responded 304 in 0.3327 ms
+2024-05-02 08:57:34.455 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/open-iconic/font/fonts/open-iconic.woff" responded 304 in 0.4022 ms
+2024-05-02 08:57:34.470 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_blazor/initializers" responded 200 in 15.0489 ms
+2024-05-02 08:57:34.492 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "POST" "/_blazor/negotiate" responded 200 in 12.4620 ms
+2024-05-02 08:57:36.662 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/fonts/MaterialIcons-Regular.woff" responded 304 in 0.3806 ms
+2024-05-02 08:57:38.950 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "POST" "/_blazor/disconnect" responded 200 in 17.3765 ms
+2024-05-02 08:57:38.950 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_blazor" responded 101 in 4452.1211 ms

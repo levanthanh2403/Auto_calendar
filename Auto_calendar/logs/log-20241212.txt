@@ -1,0 +1,68 @@
+2024-12-12 13:54:09.314 +07:00 [Information] [] [] Starting up
+2024-12-12 13:54:12.831 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/" responded 200 in 175.3538 ms
+2024-12-12 13:54:12.883 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/Auto_calendar.styles.css" responded 200 in 31.5234 ms
+2024-12-12 13:54:12.883 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/site.css" responded 200 in 31.5287 ms
+2024-12-12 13:54:12.884 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_framework/blazor.server.js" responded 200 in 29.3559 ms
+2024-12-12 13:54:12.897 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/bootstrap/bootstrap.min.css" responded 200 in 45.5214 ms
+2024-12-12 13:54:12.899 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/css/standard-base.css" responded 200 in 46.9844 ms
+2024-12-12 13:54:12.916 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/open-iconic/font/css/open-iconic-bootstrap.min.css" responded 200 in 15.6366 ms
+2024-12-12 13:54:12.928 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_blazor/initializers" responded 200 in 7.6992 ms
+2024-12-12 13:54:12.962 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/Radzen.Blazor.js" responded 200 in 96.0115 ms
+2024-12-12 13:54:12.971 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/open-iconic/font/fonts/open-iconic.woff" responded 200 in 9.8679 ms
+2024-12-12 13:54:12.981 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "POST" "/_blazor/negotiate" responded 200 in 14.3529 ms
+2024-12-12 13:54:13.007 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/favicon.png" responded 200 in 11.1849 ms
+2024-12-12 13:54:15.552 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/fonts/MaterialIcons-Regular.woff" responded 200 in 13.7833 ms
+2024-12-12 13:54:26.397 +07:00 [Information] [] [] Start Job!!!
+2024-12-12 13:54:26.603 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-12-12 13:54:26.621 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-12-12 13:54:26.633 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-12-12 13:54:26.636 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-12-12 13:54:26.638 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-12-12 13:54:26.646 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-12-12 13:54:26.648 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-12-12 13:54:26.650 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-12-12 13:54:26.656 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-12-12 13:54:26.658 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-12-12 13:54:26.676 +07:00 [Information] [] [] Started Job!!!
+2024-12-12 13:54:26.678 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-12-12 13:54:27.148 +07:00 [Information] [] [] Start Job!!!
+2024-12-12 13:54:27.151 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-12-12 13:54:27.153 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-12-12 13:54:27.154 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-12-12 13:54:27.194 +07:00 [Warning] [Microsoft.AspNetCore.Components.Server.Circuits.RemoteRenderer] [{ Id: 100, Name: "ExceptionRenderingComponent" }] Unhandled exception rendering component: "Unable to store Job: 'DEFAULT.dailyJob', because one already exists with this identification."
+Quartz.ObjectAlreadyExistsException: Unable to store Job: 'DEFAULT.dailyJob', because one already exists with this identification.
+   at Quartz.Simpl.RAMJobStore.StoreJobInternal(IJobDetail newJob, Boolean replaceExisting)
+   at Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(IJobDetail newJob, IOperableTrigger newTrigger, CancellationToken cancellationToken)
+   at Quartz.Core.QuartzScheduler.ScheduleJob(IJobDetail jobDetail, ITrigger trigger, CancellationToken cancellationToken)
+   at Auto_calendar.Pages.Shopee.ShopeeBase.StartJob() in D:\Tools\Auto_calendar\Auto_calendar\Pages\Shopee\Shopee.razor.cs:line 38
+   at Microsoft.AspNetCore.Components.ComponentBase.CallStateHasChangedOnAsyncCompletion(Task task)
+   at Radzen.Blazor.RadzenButton.OnClick(MouseEventArgs args)
+   at Microsoft.AspNetCore.Components.ComponentBase.CallStateHasChangedOnAsyncCompletion(Task task)
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.GetErrorHandledTask(Task taskToHandle, ComponentState owningComponentState)
+2024-12-12 13:54:27.226 +07:00 [Error] [Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost] [{ Id: 111, Name: "CircuitUnhandledException" }] Unhandled exception in circuit '"vIx3FJvD53PFUIVelwwXXO4ODec0EhnlrNLxqo0LncU"'.
+Quartz.ObjectAlreadyExistsException: Unable to store Job: 'DEFAULT.dailyJob', because one already exists with this identification.
+   at Quartz.Simpl.RAMJobStore.StoreJobInternal(IJobDetail newJob, Boolean replaceExisting)
+   at Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(IJobDetail newJob, IOperableTrigger newTrigger, CancellationToken cancellationToken)
+   at Quartz.Core.QuartzScheduler.ScheduleJob(IJobDetail jobDetail, ITrigger trigger, CancellationToken cancellationToken)
+   at Auto_calendar.Pages.Shopee.ShopeeBase.StartJob() in D:\Tools\Auto_calendar\Auto_calendar\Pages\Shopee\Shopee.razor.cs:line 38
+   at Microsoft.AspNetCore.Components.ComponentBase.CallStateHasChangedOnAsyncCompletion(Task task)
+   at Radzen.Blazor.RadzenButton.OnClick(MouseEventArgs args)
+   at Microsoft.AspNetCore.Components.ComponentBase.CallStateHasChangedOnAsyncCompletion(Task task)
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.GetErrorHandledTask(Task taskToHandle, ComponentState owningComponentState)
+2024-12-12 13:54:27.240 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_blazor" responded 101 in 14244.1168 ms
+2024-12-12 13:54:30.272 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/shopee" responded 200 in 14.0892 ms
+2024-12-12 13:54:30.288 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_framework/blazor.server.js" responded 304 in 0.7914 ms
+2024-12-12 13:54:30.288 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/site.css" responded 304 in 1.6616 ms
+2024-12-12 13:54:30.288 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/bootstrap/bootstrap.min.css" responded 304 in 1.6579 ms
+2024-12-12 13:54:30.288 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/css/standard-base.css" responded 304 in 1.4031 ms
+2024-12-12 13:54:30.288 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/Auto_calendar.styles.css" responded 304 in 1.5952 ms
+2024-12-12 13:54:30.289 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "POST" "/_blazor/disconnect" responded 200 in 12.1721 ms
+2024-12-12 13:54:30.295 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/Radzen.Blazor.js" responded 304 in 0.2092 ms
+2024-12-12 13:54:30.298 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/open-iconic/font/css/open-iconic-bootstrap.min.css" responded 304 in 0.3313 ms
+2024-12-12 13:54:30.320 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_blazor/initializers" responded 200 in 0.3713 ms
+2024-12-12 13:54:30.328 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/css/open-iconic/font/fonts/open-iconic.woff" responded 304 in 0.1894 ms
+2024-12-12 13:54:30.328 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_content/Radzen.Blazor/fonts/MaterialIcons-Regular.woff" responded 304 in 0.1894 ms
+2024-12-12 13:54:30.357 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "POST" "/_blazor/negotiate" responded 200 in 0.4114 ms
+2024-12-12 13:54:30.357 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/favicon.png" responded 304 in 0.2338 ms
+2024-12-12 13:54:45.595 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "GET" "/_blazor" responded 101 in 15233.2268 ms
+2024-12-12 13:54:45.615 +07:00 [Information] [Serilog.AspNetCore.RequestLoggingMiddleware] [] HTTP "POST" "/_blazor/disconnect" responded 200 in 3.7684 ms

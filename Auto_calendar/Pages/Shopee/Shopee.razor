@@ -1,0 +1,251 @@
+﻿@inherits ShopeeBase
+@page "/shopee"
+
+<RadzenRow>
+    <RadzenColumn Size="8">
+        <RadzenCard>
+            <RadzenFieldset Text="Tài khoản 1">
+                <RadzenRow class="" Gap="1rem">
+                    <RadzenColumn Size="6" class="rz-py-2">
+                        <RadzenFieldset class="mb-2" Text="Thiết lập đăng nhập">
+                            <RadzenStack Gap="1rem">
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Tên đăng nhập" Component="User1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.username1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mật khẩu" Component="Pass1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.password1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Thời gian chạy" Component="TimeLogin1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.timelogin1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                            </RadzenStack>
+                        </RadzenFieldset>
+                        <RadzenButton Click=StartJob Text="Tạo lịch" ButtonStyle="ButtonStyle.Primary" class="rz-py-2" />
+                    </RadzenColumn>
+                    <RadzenColumn Size="6" class="rz-py-2">
+                        <RadzenFieldset class="mb-2" Text="Thiết lập đặt hàng">
+                            <RadzenStack Gap="1rem">
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Sản phẩm" Component="Item1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="6">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.item1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="2">
+                                        <RadzenButton Click=checkItemInCart Icon="check_circle" ButtonStyle="ButtonStyle.Success" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mã FreeShip" Component="Freeship1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.freeship1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mã giảm giá" Component="Vourcher1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.vourcher1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Thời gian chạy" Component="TimeOrder1" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.timeorder1" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                            </RadzenStack>
+                        </RadzenFieldset>
+                    </RadzenColumn>
+                </RadzenRow>
+            </RadzenFieldset>
+            <RadzenFieldset Text="Tài khoản 2">
+                <RadzenRow class="" Gap="1rem">
+                    <RadzenColumn Size="6" class="rz-py-2">
+                        <RadzenFieldset class="mb-2" Text="Thiết lập đăng nhập">
+                            <RadzenStack Gap="1rem">
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Tên đăng nhập" Component="User2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.username2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mật khẩu" Component="Pass2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.password2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Thời gian chạy" Component="TimeLogin2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.timelogin2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                            </RadzenStack>
+                        </RadzenFieldset>
+                        <RadzenButton Click=StartJob Text="Tạo lịch" ButtonStyle="ButtonStyle.Primary" class="rz-py-2" />
+                    </RadzenColumn>
+                    <RadzenColumn Size="6" class="rz-py-2">
+                        <RadzenFieldset class="mb-2" Text="Thiết lập đặt hàng">
+                            <RadzenStack Gap="1rem">
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Sản phẩm" Component="Item2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="6">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.item2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="2">
+                                        <RadzenButton Click=checkItemInCart Icon="check_circle" ButtonStyle="ButtonStyle.Success" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mã FreeShip" Component="Freeship2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.freeship2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mã giảm giá" Component="Vourcher2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.vourcher2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Thời gian chạy" Component="TimeOrder2" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.timeorder2" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                            </RadzenStack>
+                        </RadzenFieldset>
+                    </RadzenColumn>
+                </RadzenRow>
+            </RadzenFieldset>
+            <RadzenFieldset Text="Tài khoản 3">
+                <RadzenRow class="" Gap="1rem">
+                    <RadzenColumn Size="6" class="rz-py-2">
+                        <RadzenFieldset class="mb-2" Text="Thiết lập đăng nhập">
+                            <RadzenStack Gap="1rem">
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Tên đăng nhập" Component="User3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.username3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mật khẩu" Component="Pass3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.password3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Thời gian chạy" Component="TimeLogin3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.timelogin3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                            </RadzenStack>
+                        </RadzenFieldset>
+                        <RadzenButton Click=StartJob Text="Tạo lịch" ButtonStyle="ButtonStyle.Primary" class="rz-py-2" />
+                    </RadzenColumn>
+                    <RadzenColumn Size="6" class="rz-py-2">
+                        <RadzenFieldset class="mb-2" Text="Thiết lập đặt hàng">
+                            <RadzenStack Gap="1rem">
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Sản phẩm" Component="Item3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="6">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.item3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="2">
+                                        <RadzenButton Click=checkItemInCart Icon="check_circle" ButtonStyle="ButtonStyle.Success" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mã FreeShip" Component="Freeship3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.freeship3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Mã giảm giá" Component="Vourcher3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.vourcher3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                                <RadzenRow AlignItems="AlignItems.Center">
+                                    <RadzenColumn Size="12" SizeMD="4">
+                                        <RadzenLabel Text="Thời gian chạy" Component="TimeOrder3" />
+                                    </RadzenColumn>
+                                    <RadzenColumn Size="12" SizeMD="8">
+                                        <RadzenTextBox @bind-Value="@CONST.shopeeModel.timeorder3" class="w-100" aria-label="Default TextBox" />
+                                    </RadzenColumn>
+                                </RadzenRow>
+                            </RadzenStack>
+                        </RadzenFieldset>
+                    </RadzenColumn>
+                </RadzenRow>
+            </RadzenFieldset>
+        </RadzenCard>
+    </RadzenColumn>
+    <RadzenColumn>
+        <RadzenCard>
+            <RadzenFieldset Text="Log kiểm tra">
+                <RadzenButton Click=RefreshLog Icon="refresh" ButtonStyle="ButtonStyle.Light" />
+                <RadzenColumn Size="6" class="rz-py-2">
+                    <RadzenTextArea Rows=30 class="w-100" aria-label="TextArea" @bind-Value=log />
+                </RadzenColumn>
+            </RadzenFieldset>
+        </RadzenCard>
+    </RadzenColumn>
+</RadzenRow>
+
+@code {
+
+}
