@@ -1,0 +1,4 @@
+2024-06-27 15:44:45.127 +07:00 [Information] [] [] Started application!
+2024-06-27 15:44:45.221 +07:00 [Information] [] [] Added Job: c7f96a2e-fad9-4e3c-befe-730c78881ade
+2024-06-27 16:33:40.382 +07:00 [Information] [] [] Started application!
+2024-06-27 16:33:40.492 +07:00 [Information] [] [] Added Job: 8205af68-555e-4d3b-b675-8e9b8411cce7

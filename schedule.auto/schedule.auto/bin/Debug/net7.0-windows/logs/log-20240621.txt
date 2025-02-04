@@ -1,0 +1,59 @@
+2024-06-21 08:37:55.113 +07:00 [Information] [] [] Started application!
+2024-06-21 08:37:55.210 +07:00 [Information] [] [] Added Job: 29b2a0ab-04af-4053-bf7f-4da16673eba0
+2024-06-21 08:38:16.117 +07:00 [Information] [] [] Started application!
+2024-06-21 08:38:16.256 +07:00 [Information] [] [] Added Job: 37e96ced-2137-4461-bfa3-33534d93abdc
+2024-06-21 08:38:21.334 +07:00 [Information] [] [] Started application!
+2024-06-21 08:38:21.424 +07:00 [Information] [] [] Added Job: d855d0b5-bfee-4c04-967e-3602ff6b61fc
+2024-06-21 08:38:42.115 +07:00 [Information] [] [] Started application!
+2024-06-21 08:38:42.164 +07:00 [Information] [] [] Added Job: ddb231e0-f0dc-4cd3-a9db-24e48ca7e9d0
+2024-06-21 08:38:44.978 +07:00 [Information] [] [] Added Job: 82a3080c-65a1-4318-8e36-8505a61a5ef8
+2024-06-21 08:38:45.447 +07:00 [Information] [] [] Added Job: ecc75d7f-fa0b-4e58-b5ee-b467ec640af3
+2024-06-21 08:38:45.773 +07:00 [Information] [] [] Added Job: f455f574-e6d0-44db-8c7c-eacf5ae96d06
+2024-06-21 08:38:46.858 +07:00 [Information] [] [] Added Job: 1b1e6dfd-4b2b-498e-82f7-304bbfac8286
+2024-06-21 08:38:48.672 +07:00 [Information] [] [] Removed Job: 82a3080c-65a1-4318-8e36-8505a61a5ef8
+2024-06-21 08:38:49.070 +07:00 [Information] [] [] Removed Job: ecc75d7f-fa0b-4e58-b5ee-b467ec640af3
+2024-06-21 08:38:49.229 +07:00 [Information] [] [] Removed Job: f455f574-e6d0-44db-8c7c-eacf5ae96d06
+2024-06-21 08:38:49.404 +07:00 [Information] [] [] Removed Job: 1b1e6dfd-4b2b-498e-82f7-304bbfac8286
+2024-06-21 08:42:22.236 +07:00 [Information] [] [] Started application!
+2024-06-21 08:42:22.397 +07:00 [Information] [] [] Added Job: 62864ac2-1442-4313-bc4a-ebf51bb19c7e
+2024-06-21 08:42:26.336 +07:00 [Information] [] [] Started application!
+2024-06-21 08:42:26.431 +07:00 [Information] [] [] Added Job: 85330e9b-3030-4f95-80e5-6d2c5004fc91
+2024-06-21 08:43:04.686 +07:00 [Information] [] [] Start Job!!!
+2024-06-21 08:43:05.237 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-21 08:43:05.252 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-21 08:43:05.264 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-21 08:43:05.264 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-21 08:43:05.267 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-21 08:43:05.268 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-21 08:43:05.268 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-21 08:43:05.268 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-21 08:43:05.471 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-21 08:43:05.688 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-21 08:43:09.433 +07:00 [Information] [] [] Started Job!!!
+2024-06-21 08:43:09.434 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-21 08:44:49.529 +07:00 [Information] [] [] Started application!
+2024-06-21 08:44:49.824 +07:00 [Information] [] [] Added Job: 3353042c-2881-4a48-9868-608742af924e
+2024-06-21 08:44:55.962 +07:00 [Information] [] [] Started application!
+2024-06-21 08:44:56.140 +07:00 [Information] [] [] Added Job: eef9d50b-610b-4c1b-9ad0-bc1f64892e11
+2024-06-21 08:45:11.157 +07:00 [Information] [] [] Started application!
+2024-06-21 08:45:11.292 +07:00 [Information] [] [] Added Job: 20582ad0-65e8-4821-8cc3-06b72e23d2b9
+2024-06-21 08:45:18.625 +07:00 [Information] [] [] Added Job: d2bcf618-538b-4427-a61b-b1e7dc1efe12
+2024-06-21 08:45:20.097 +07:00 [Information] [] [] Removed Job: d2bcf618-538b-4427-a61b-b1e7dc1efe12
+2024-06-21 08:48:07.254 +07:00 [Information] [] [] Started application!
+2024-06-21 08:48:07.383 +07:00 [Information] [] [] Added Job: be259e81-7523-4ae5-9851-8a7a394f67f8
+2024-06-21 08:48:08.926 +07:00 [Error] [] [] Choose path Source: System.ComponentModel.Win32Exception (0x80070057): The parameter is incorrect.
+   at Interop.Shell32.CreateItemFromParsingName(String path)
+   at System.Windows.Forms.FolderBrowserDialog.SetDialogProperties(IFileDialog dialog)
+   at System.Windows.Forms.FolderBrowserDialog.TryRunDialogVista(IntPtr owner, Boolean& returnValue)
+   at System.Windows.Forms.FolderBrowserDialog.RunDialog(IntPtr hWndOwner)
+   at System.Windows.Forms.CommonDialog.ShowDialog(IWin32Window owner)
+   at schedule.auto.Control.ListTasks.btnFolderSource_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Control\ListTasks.cs:line 72
+2024-06-21 08:54:40.376 +07:00 [Information] [] [] Started application!
+2024-06-21 08:54:40.498 +07:00 [Information] [] [] Added Job: 5667f76d-5967-4dc8-8f40-5e906a60d339
+2024-06-21 08:55:19.681 +07:00 [Information] [] [] Started application!
+2024-06-21 08:55:19.787 +07:00 [Information] [] [] Added Job: 6e88ee2e-0b20-48c2-9635-93c7db1c60b9
+2024-06-21 08:55:40.209 +07:00 [Error] [] [] Choose path Source: System.InvalidOperationException: SetCompatibleTextRenderingDefault must be called before the first IWin32Window object is created in the application.
+   at System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean defaultValue)
+   at schedule.auto.Control.ListTasks.btnFolderSource_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Control\ListTasks.cs:line 74
+2024-06-21 08:58:14.200 +07:00 [Information] [] [] Started application!
+2024-06-21 08:58:14.275 +07:00 [Information] [] [] Added Job: 37a12e06-bb5f-4df4-b32b-5ab04a9d9841

@@ -1,0 +1,27 @@
+2024-06-26 14:37:24.830 +07:00 [Information] [] [] Started application!
+2024-06-26 14:37:24.937 +07:00 [Information] [] [] Added Job: d7dbaad1-a234-488a-ad59-aec2b5e1f40d
+2024-06-26 14:37:31.877 +07:00 [Information] [] [] Start Job!!!
+2024-06-26 14:37:31.964 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-26 14:37:31.982 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-26 14:37:31.992 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-26 14:37:31.992 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-26 14:37:31.998 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-26 14:37:31.999 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-26 14:37:31.999 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-26 14:37:31.999 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-26 14:37:32.003 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-26 14:37:32.004 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-26 14:37:32.025 +07:00 [Information] [] [] Started Job!!!
+2024-06-26 14:37:32.026 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-26 16:31:41.821 +07:00 [Information] [] [] Started application!
+2024-06-26 16:31:41.972 +07:00 [Information] [] [] Added Job: 17a41f59-1ba1-4673-8dcb-8c1d346d9f7c
+2024-06-26 16:34:28.756 +07:00 [Information] [] [] Started application!
+2024-06-26 16:34:28.878 +07:00 [Information] [] [] Added Job: 70d6b545-8586-4b3b-a192-034284e5bd99
+2024-06-26 16:37:13.558 +07:00 [Information] [] [] Started application!
+2024-06-26 16:37:13.694 +07:00 [Information] [] [] Added Job: 60c7e7c0-5bdd-42ba-89b9-7a4c38f3ff33
+2024-06-26 16:42:19.950 +07:00 [Information] [] [] Started application!
+2024-06-26 16:42:20.063 +07:00 [Information] [] [] Added Job: 47ccfb80-9bce-422b-a6c0-bde7e44a02b2
+2024-06-26 17:49:53.066 +07:00 [Information] [] [] Started application!
+2024-06-26 17:49:53.169 +07:00 [Information] [] [] Added Job: 26452534-6ea0-4f69-82eb-7bda12d4ebe0
+2024-06-26 17:50:00.332 +07:00 [Information] [] [] Started application!
+2024-06-26 17:50:00.431 +07:00 [Information] [] [] Added Job: 97ac4331-0287-4501-9923-b70b5bbfc97f

@@ -1,0 +1,706 @@
+2024-06-28 08:31:37.665 +07:00 [Information] [] [] Started application!
+2024-06-28 08:31:37.762 +07:00 [Information] [] [] Added Job: e7d18ff1-d603-4eff-b090-23e77b295fc0
+2024-06-28 08:31:55.461 +07:00 [Information] [] [] Started application!
+2024-06-28 08:31:55.577 +07:00 [Information] [] [] Added Job: 131f9948-713d-40c5-90b2-7a9cad1828f5
+2024-06-28 08:32:04.220 +07:00 [Information] [] [] Started application!
+2024-06-28 08:32:04.349 +07:00 [Information] [] [] Added Job: 06b4036b-4b0d-4864-9d03-1bc662506a84
+2024-06-28 08:32:12.293 +07:00 [Information] [] [] Started application!
+2024-06-28 08:32:12.424 +07:00 [Information] [] [] Added Job: f3e51410-bd51-46d2-9eca-eb1fdebc0a7b
+2024-06-28 08:32:16.427 +07:00 [Information] [] [] Started application!
+2024-06-28 08:32:16.512 +07:00 [Information] [] [] Added Job: 7e8850ca-bc58-4352-9a29-8bfb274105a8
+2024-06-28 08:48:06.648 +07:00 [Information] [] [] Started application!
+2024-06-28 08:48:06.769 +07:00 [Information] [] [] Added Job: 14978889-396b-4226-8a13-e611e7b0b6b5
+2024-06-28 10:25:48.452 +07:00 [Information] [] [] Started application!
+2024-06-28 10:25:48.687 +07:00 [Information] [] [] Added Job: 19ac42fe-49f6-4caf-8e29-48ab27c68b60
+2024-06-28 10:26:07.381 +07:00 [Information] [] [] Started application!
+2024-06-28 10:26:07.483 +07:00 [Information] [] [] Added Job: 247e7a63-ada3-43cf-a55d-8e45b16c2ad7
+2024-06-28 10:50:58.005 +07:00 [Information] [] [] Started application!
+2024-06-28 10:50:58.438 +07:00 [Information] [] [] Added Job: 354af579-a210-4264-854d-ea2ae1329471
+2024-06-28 10:51:37.443 +07:00 [Information] [] [] Started application!
+2024-06-28 10:51:37.540 +07:00 [Information] [] [] Added Job: 0ff13496-2efe-4955-9739-7d4938d4c6c3
+2024-06-28 10:52:05.226 +07:00 [Information] [] [] Started application!
+2024-06-28 10:52:05.386 +07:00 [Information] [] [] Added Job: f614016d-ee6d-424d-b435-77ec24489a9b
+2024-06-28 10:53:30.795 +07:00 [Information] [] [] Started application!
+2024-06-28 10:53:30.955 +07:00 [Information] [] [] Added Job: 061299c5-8951-4800-866d-b212b0e28f91
+2024-06-28 10:53:36.466 +07:00 [Information] [] [] Started application!
+2024-06-28 10:53:36.598 +07:00 [Information] [] [] Added Job: 5d3d3564-f971-44e9-80b9-4c4abad12146
+2024-06-28 10:55:00.504 +07:00 [Information] [] [] Started application!
+2024-06-28 10:55:00.673 +07:00 [Information] [] [] Added Job: 8dcecbd3-2f4b-4f0f-b8de-755e7728d7a2
+2024-06-28 11:01:31.612 +07:00 [Information] [] [] Started application!
+2024-06-28 11:01:31.756 +07:00 [Information] [] [] Added Job: d71d36b6-827a-4db0-964a-ae696a503ef1
+2024-06-28 11:01:43.460 +07:00 [Information] [] [] Started application!
+2024-06-28 11:01:43.590 +07:00 [Information] [] [] Added Job: 2f6a5c2a-1936-440b-abc3-25ecace821bd
+2024-06-28 11:02:10.117 +07:00 [Information] [] [] Started application!
+2024-06-28 11:02:10.229 +07:00 [Information] [] [] Added Job: 2db264ea-f778-497e-a6c3-082e7d3d4603
+2024-06-28 11:02:13.083 +07:00 [Information] [] [] Started application!
+2024-06-28 11:02:13.175 +07:00 [Information] [] [] Added Job: 86794b79-ca32-44af-aa7a-faed59a52839
+2024-06-28 11:03:48.764 +07:00 [Information] [] [] Started application!
+2024-06-28 11:03:48.877 +07:00 [Information] [] [] Added Job: 4f90308b-1d88-404f-a9cd-6694dcfb3ed7
+2024-06-28 11:04:28.165 +07:00 [Information] [] [] Started application!
+2024-06-28 11:04:28.271 +07:00 [Information] [] [] Added Job: 6c83d7d5-547c-4ecd-9c85-0e166ca7cc61
+2024-06-28 11:05:37.789 +07:00 [Information] [] [] Started application!
+2024-06-28 11:05:37.946 +07:00 [Information] [] [] Added Job: f8d3db71-5e8c-4c83-9049-fa1457258151
+2024-06-28 11:06:43.041 +07:00 [Information] [] [] Started application!
+2024-06-28 11:06:43.261 +07:00 [Information] [] [] Added Job: cace5356-2e7f-45b5-8549-7ca0a35a7f55
+2024-06-28 11:07:04.115 +07:00 [Information] [] [] Started application!
+2024-06-28 11:07:04.248 +07:00 [Information] [] [] Added Job: 4ce6db6d-4d3f-41ce-af46-cfd30b564ffe
+2024-06-28 11:14:37.306 +07:00 [Information] [] [] Started application!
+2024-06-28 11:14:37.440 +07:00 [Information] [] [] Added Job: 3f62474a-9107-434a-9af4-07c38c936d1c
+2024-06-28 11:14:55.454 +07:00 [Information] [] [] Started application!
+2024-06-28 11:14:55.560 +07:00 [Information] [] [] Added Job: 51030a77-c464-4c36-8b49-a5a93f574819
+2024-06-28 11:14:58.040 +07:00 [Information] [] [] Started application!
+2024-06-28 11:14:58.202 +07:00 [Information] [] [] Added Job: cdf194cd-4e08-4797-9b64-1ac26f0eb6b5
+2024-06-28 11:15:35.944 +07:00 [Information] [] [] Started application!
+2024-06-28 11:15:36.041 +07:00 [Information] [] [] Added Job: a6a326ef-4d75-4280-a4ea-2ec1ca6d9393
+2024-06-28 11:40:13.613 +07:00 [Information] [] [] Started application!
+2024-06-28 11:40:13.813 +07:00 [Information] [] [] Added Job: 131cb42a-7cf1-436b-b5f4-b1a67d56ddf1
+2024-06-28 11:48:51.547 +07:00 [Information] [] [] Started application!
+2024-06-28 11:48:51.712 +07:00 [Information] [] [] Added Job: 501a530e-43a5-4c41-9cd3-36ac89a6ec22
+2024-06-28 11:48:54.372 +07:00 [Information] [] [] Started application!
+2024-06-28 11:48:54.511 +07:00 [Information] [] [] Added Job: e97acc99-5b78-421a-a657-c1820cafee10
+2024-06-28 11:58:23.445 +07:00 [Information] [] [] Started application!
+2024-06-28 11:58:23.640 +07:00 [Information] [] [] Added Job: 6da29527-3ae5-4a3b-a398-893a0ed41e84
+2024-06-28 11:58:26.474 +07:00 [Information] [] [] Started application!
+2024-06-28 11:58:26.643 +07:00 [Information] [] [] Added Job: 875d30ef-4a3b-4ad4-8413-344725703040
+2024-06-28 11:58:28.602 +07:00 [Information] [] [] Started application!
+2024-06-28 11:58:28.696 +07:00 [Information] [] [] Added Job: a67f527f-d1c7-4700-8419-c47b23c6c598
+2024-06-28 12:00:04.409 +07:00 [Information] [] [] Started application!
+2024-06-28 12:00:04.539 +07:00 [Information] [] [] Added Job: e81ec7ad-dddf-470d-b9d4-b7db43572864
+2024-06-28 12:00:07.127 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Chưa nhập đủ thông tin của các jobs!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 132
+2024-06-28 12:02:29.119 +07:00 [Information] [] [] Started application!
+2024-06-28 12:02:29.222 +07:00 [Information] [] [] Added Job: 5a578085-7a6b-427f-92f4-5cbd0011b9b3
+2024-06-28 12:02:47.071 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Chưa nhập đủ thông tin của các jobs!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 132
+2024-06-28 12:04:08.336 +07:00 [Information] [] [] Started application!
+2024-06-28 12:04:08.459 +07:00 [Information] [] [] Added Job: cf60d2bb-51a3-448d-ad83-498240fed72a
+2024-06-28 12:04:11.430 +07:00 [Information] [] [] Started application!
+2024-06-28 12:04:11.575 +07:00 [Information] [] [] Added Job: 12caa67a-27d5-440c-acc9-ab267d6da086
+2024-06-28 12:04:13.169 +07:00 [Information] [] [] Started application!
+2024-06-28 12:04:13.253 +07:00 [Information] [] [] Added Job: 51f5756f-0e98-4a3c-97f1-7c968eadc2b7
+2024-06-28 12:04:14.807 +07:00 [Information] [] [] Started application!
+2024-06-28 12:04:14.928 +07:00 [Information] [] [] Added Job: 050be038-5eea-444b-abb5-bd0b52c799c6
+2024-06-28 12:05:01.872 +07:00 [Information] [] [] Started application!
+2024-06-28 12:05:01.976 +07:00 [Information] [] [] Added Job: 38dd1709-afb7-4faf-8761-3fd6b6206a11
+2024-06-28 12:26:35.629 +07:00 [Information] [] [] Started application!
+2024-06-28 12:26:35.765 +07:00 [Information] [] [] Added Job: 8c2f529c-a583-4630-9c9b-90289ee509e1
+2024-06-28 12:27:14.470 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Chưa nhập đủ thông tin của các jobs!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 132
+2024-06-28 12:31:10.611 +07:00 [Information] [] [] Started application!
+2024-06-28 12:31:10.732 +07:00 [Information] [] [] Added Job: 5acd374d-68e3-40db-89d7-4dbea2ed86c9
+2024-06-28 12:32:02.620 +07:00 [Information] [] [] Started application!
+2024-06-28 12:32:02.754 +07:00 [Information] [] [] Added Job: 21894319-d538-4916-98d3-94da50447984
+2024-06-28 12:32:17.377 +07:00 [Information] [] [] Started application!
+2024-06-28 12:32:17.485 +07:00 [Information] [] [] Added Job: 47baf2a8-c15d-4397-a412-6eaa22e2453c
+2024-06-28 12:32:37.443 +07:00 [Error] [] [] convert date exec: System.FormatException: The input string 'aaaaaaaaaa' was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at schedule.auto.Form1.<>c.<btnCreateSchedule_Click>b__7_2(ListTasks o) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 142
+   at System.Linq.Enumerable.SelectListIterator`2.ToList()
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 142
+2024-06-28 12:32:37.452 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Ngày chạy không hợp lệ!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 142
+2024-06-28 12:32:51.962 +07:00 [Information] [] [] Started application!
+2024-06-28 12:32:52.106 +07:00 [Information] [] [] Added Job: 7ce1207a-ebe0-4399-a7df-6e893d86b9b6
+2024-06-28 12:32:55.543 +07:00 [Information] [] [] Started application!
+2024-06-28 12:32:55.694 +07:00 [Information] [] [] Added Job: dcdeccc5-ef3d-4414-9de2-feddffb9172b
+2024-06-28 12:33:44.804 +07:00 [Information] [] [] Started application!
+2024-06-28 12:33:44.959 +07:00 [Information] [] [] Added Job: 52f23464-c239-42d6-a869-53c41fa5691f
+2024-06-28 12:34:26.245 +07:00 [Information] [] [] Started application!
+2024-06-28 12:34:26.355 +07:00 [Information] [] [] Added Job: 6f92c7b1-8f54-42fc-9cb4-93235ca0c07d
+2024-06-28 12:34:55.658 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Ngày chạy phải nằm trong khoảng từ 1 - 28!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 135
+2024-06-28 12:36:32.670 +07:00 [Information] [] [] Started application!
+2024-06-28 12:36:32.850 +07:00 [Information] [] [] Added Job: 9b00c40b-6b3f-4df6-b7bb-c6828560bfea
+2024-06-28 12:36:35.956 +07:00 [Information] [] [] Started application!
+2024-06-28 12:36:36.048 +07:00 [Information] [] [] Added Job: 14257100-f27b-41b8-a036-0241dd06585e
+2024-06-28 12:36:42.464 +07:00 [Information] [] [] Started application!
+2024-06-28 12:36:42.568 +07:00 [Information] [] [] Added Job: 310dbe52-4d91-486e-9835-7d3fa7ad6106
+2024-06-28 12:36:51.709 +07:00 [Information] [] [] Started application!
+2024-06-28 12:36:51.818 +07:00 [Information] [] [] Added Job: b1a3e6ce-8aef-4cf3-8803-5845bf7fd3d9
+2024-06-28 12:37:37.284 +07:00 [Information] [] [] Started application!
+2024-06-28 12:37:37.450 +07:00 [Information] [] [] Added Job: 0ef4d8e1-4136-4a15-90fa-67c6a1e54aad
+2024-06-28 12:37:40.028 +07:00 [Information] [] [] Started application!
+2024-06-28 12:37:40.128 +07:00 [Information] [] [] Added Job: dc36aa77-0bdb-499d-b62d-b57e095629dc
+2024-06-28 12:38:05.773 +07:00 [Information] [] [] Start Job: job test - dc36aa77-0bdb-499d-b62d-b57e095629dc
+2024-06-28 12:38:05.845 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:38:05.859 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:38:05.872 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:38:05.872 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:38:05.873 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:38:05.876 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:38:05.876 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:38:05.876 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:38:05.880 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:38:05.881 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:38:05.900 +07:00 [Information] [] [] Time: 0 20 10 * * ?
+2024-06-28 12:38:05.901 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:38:11.950 +07:00 [Information] [] [] Start Job: job test - dc36aa77-0bdb-499d-b62d-b57e095629dc
+2024-06-28 12:38:11.950 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:38:11.950 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:38:11.950 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:38:11.996 +07:00 [Error] [] [] btnCreateSchedule_Click: Quartz.ObjectAlreadyExistsException: Unable to store Job: 'DEFAULT.dailyJob', because one already exists with this identification.
+   at Quartz.Simpl.RAMJobStore.StoreJobInternal(IJobDetail newJob, Boolean replaceExisting)
+   at Quartz.Simpl.RAMJobStore.StoreJobAndTrigger(IJobDetail newJob, IOperableTrigger newTrigger, CancellationToken cancellationToken)
+   at Quartz.Core.QuartzScheduler.ScheduleJob(IJobDetail jobDetail, ITrigger trigger, CancellationToken cancellationToken)
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 158
+2024-06-28 12:41:13.983 +07:00 [Information] [] [] Started application!
+2024-06-28 12:41:14.108 +07:00 [Information] [] [] Added Job: 8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:41:37.967 +07:00 [Information] [] [] Start Job: job test - 8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:41:38.029 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:41:38.043 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:41:38.058 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:41:38.058 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:41:38.062 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:41:38.062 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:41:38.063 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:41:38.063 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:41:38.066 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:41:38.067 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:38.091 +07:00 [Information] [] [] Time: 0 20 10 * * ?
+2024-06-28 12:41:38.092 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:39.305 +07:00 [Information] [] [] Start Job: job test - 8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:41:39.305 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:41:39.306 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:41:39.306 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:39.309 +07:00 [Information] [] [] Time: 0 20 10 * * ?
+2024-06-28 12:41:39.309 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:42.543 +07:00 [Information] [] [] Start Job: job test - 8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:41:42.543 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:41:42.543 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:41:42.543 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:42.544 +07:00 [Information] [] [] Time: 0 20 10 * * ?
+2024-06-28 12:41:42.544 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:56.589 +07:00 [Information] [] [] Start Job: job test - 8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:41:56.589 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:41:56.589 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:41:56.589 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:41:56.590 +07:00 [Information] [] [] Time: 0 42 12 * * ?
+2024-06-28 12:41:56.590 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 12:42:00.020 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.8641748e-d396-46a2-ac1c-441b63bcbed8', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 12:42:00.022 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:42:00.038 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:42:02.469 +07:00 [Information] [] [] Test job!!!!!!!!!!!
+2024-06-28 12:42:02.472 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Trigger instruction : NoInstruction
+2024-06-28 12:42:16.784 +07:00 [Information] [] [] Start Job: job test - 8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:42:16.784 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:42:16.785 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:42:16.785 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:42:16.785 +07:00 [Information] [] [] Time: 0 43 12 * * ?
+2024-06-28 12:42:16.785 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:42:44.924 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 12:43:00.005 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.8641748e-d396-46a2-ac1c-441b63bcbed8', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 12:43:00.006 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:43:00.012 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.8641748e-d396-46a2-ac1c-441b63bcbed8
+2024-06-28 12:43:50.910 +07:00 [Information] [] [] Started application!
+2024-06-28 12:43:51.066 +07:00 [Information] [] [] Added Job: c59f4cfc-e7ed-4d0a-8098-eb96298ca8f0
+2024-06-28 12:43:53.843 +07:00 [Information] [] [] Started application!
+2024-06-28 12:43:53.930 +07:00 [Information] [] [] Added Job: c79654fa-aa75-47f0-9005-1f4989c83e0a
+2024-06-28 12:44:06.471 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:44:06.486 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:44:06.494 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:44:06.494 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:44:06.495 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:44:06.498 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:44:06.498 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:44:06.498 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:44:06.502 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:44:06.503 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:44:06.510 +07:00 [Information] [] [] Start Job: aa - c79654fa-aa75-47f0-9005-1f4989c83e0a
+2024-06-28 12:44:06.526 +07:00 [Information] [] [] Time: 0 45 12 * * ?
+2024-06-28 12:44:06.527 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:44:32.429 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 12:45:00.007 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.c79654fa-aa75-47f0-9005-1f4989c83e0a', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 12:45:00.010 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:45:00.026 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.c79654fa-aa75-47f0-9005-1f4989c83e0a
+2024-06-28 12:45:02.087 +07:00 [Information] [] [] Test job!!!!!!!!!!!
+2024-06-28 12:45:02.090 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Trigger instruction : NoInstruction
+2024-06-28 12:52:03.086 +07:00 [Information] [] [] Started application!
+2024-06-28 12:52:03.218 +07:00 [Information] [] [] Added Job: d62ad6be-a54c-445d-b2b7-dc8bc190075f
+2024-06-28 12:52:06.010 +07:00 [Information] [] [] Started application!
+2024-06-28 12:52:06.104 +07:00 [Information] [] [] Added Job: 6fe9d2f8-9506-462e-a3e6-827706989154
+2024-06-28 12:52:20.615 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:52:20.630 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:52:20.638 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:52:20.638 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:52:20.642 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:52:20.642 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:52:20.642 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:52:20.643 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:52:20.646 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:52:20.647 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:52:20.655 +07:00 [Information] [] [] Start Job: a - 6fe9d2f8-9506-462e-a3e6-827706989154
+2024-06-28 12:52:20.880 +07:00 [Error] [] [] btnCreateSchedule_Click: Newtonsoft.Json.JsonSerializationException: Self referencing loop detected with type 'schedule.auto.Control.ListTasks'. Path 'ParentForm._tasks'.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.CheckForCircularReference(JsonWriter writer, Object value, JsonProperty property, JsonContract contract, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeList(JsonWriter writer, IEnumerable values, JsonArrayContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeValue(JsonWriter writer, Object value, JsonContract valueContract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.SerializeObject(Object value)
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 153
+2024-06-28 12:52:54.857 +07:00 [Information] [] [] Started application!
+2024-06-28 12:52:54.971 +07:00 [Information] [] [] Added Job: f238d43d-c253-4817-8b15-ef2ad6bbbe56
+2024-06-28 12:53:06.656 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:53:06.671 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:53:06.678 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:53:06.678 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:53:06.679 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:53:06.683 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:53:06.683 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:53:06.683 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:53:06.687 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:53:06.688 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:53:06.695 +07:00 [Information] [] [] Start Job: 1 - f238d43d-c253-4817-8b15-ef2ad6bbbe56
+2024-06-28 12:53:06.711 +07:00 [Information] [] [] Time: 0 54 12 * * ?
+2024-06-28 12:53:06.712 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:53:31.412 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 12:54:00.006 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.f238d43d-c253-4817-8b15-ef2ad6bbbe56', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 12:54:00.008 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:54:00.022 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.f238d43d-c253-4817-8b15-ef2ad6bbbe56
+2024-06-28 12:58:16.230 +07:00 [Information] [] [] Started application!
+2024-06-28 12:58:16.322 +07:00 [Information] [] [] Added Job: 8d50b12d-3cf3-42c0-968a-adb8d64eb6bb
+2024-06-28 12:58:26.149 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:58:26.164 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:58:26.173 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:58:26.173 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:58:26.177 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:58:26.177 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:58:26.178 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:58:26.178 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:58:26.182 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:58:26.182 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:58:26.191 +07:00 [Information] [] [] Start Job: a - 8d50b12d-3cf3-42c0-968a-adb8d64eb6bb
+2024-06-28 12:58:44.126 +07:00 [Information] [] [] Started application!
+2024-06-28 12:58:44.274 +07:00 [Information] [] [] Added Job: 349f7ed7-4a08-45cd-bce1-2694c23d638d
+2024-06-28 12:59:10.162 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 12:59:10.177 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 12:59:10.190 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 12:59:10.190 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 12:59:10.194 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 12:59:10.194 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 12:59:10.194 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 12:59:10.195 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 12:59:10.198 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 12:59:10.199 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:59:10.209 +07:00 [Information] [] [] Start Job: jobtest - 349f7ed7-4a08-45cd-bce1-2694c23d638d
+2024-06-28 12:59:10.279 +07:00 [Information] [] [] Time: 0 00 13 * * ?
+2024-06-28 12:59:10.279 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 12:59:38.288 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 13:00:00.006 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.349f7ed7-4a08-45cd-bce1-2694c23d638d', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 13:00:00.008 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:00:00.021 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.349f7ed7-4a08-45cd-bce1-2694c23d638d
+2024-06-28 13:01:18.749 +07:00 [Information] [] [] Started application!
+2024-06-28 13:01:18.874 +07:00 [Information] [] [] Added Job: 3c15ef9a-1888-44c2-9979-0ac50a5bcdc8
+2024-06-28 13:01:29.480 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 13:01:29.494 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 13:01:29.502 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 13:01:29.502 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 13:01:29.502 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 13:01:29.506 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 13:01:29.506 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 13:01:29.506 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 13:01:29.510 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 13:01:29.511 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:01:29.519 +07:00 [Information] [] [] Start Job: a - 3c15ef9a-1888-44c2-9979-0ac50a5bcdc8
+2024-06-28 13:01:29.592 +07:00 [Information] [] [] Time: 0 02 13 * * ?
+2024-06-28 13:01:29.593 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:01:53.321 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 13:02:00.010 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.3c15ef9a-1888-44c2-9979-0ac50a5bcdc8', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 13:02:00.013 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:02:00.028 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.3c15ef9a-1888-44c2-9979-0ac50a5bcdc8
+2024-06-28 13:02:25.346 +07:00 [Error] [Quartz.Core.JobRunShell] [] Job DEFAULT.3c15ef9a-1888-44c2-9979-0ac50a5bcdc8 threw an unhandled Exception: 
+System.Collections.Generic.KeyNotFoundException: Key item not found
+   at Quartz.Util.StringKeyDirtyFlagMap.GetString(String key)
+   at schedule.auto.ScheduledTasks.BackupJob.Execute(IJobExecutionContext context) in D:\Techplus\schedule.auto\schedule.auto\ScheduleTasks\BackupJob.cs:line 12
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)
+2024-06-28 13:02:25.376 +07:00 [Error] [Quartz.Core.ErrorLogger] [] Job DEFAULT.3c15ef9a-1888-44c2-9979-0ac50a5bcdc8 threw an exception.
+Quartz.SchedulerException: Job threw an unhandled exception.
+ ---> System.Collections.Generic.KeyNotFoundException: Key item not found
+   at Quartz.Util.StringKeyDirtyFlagMap.GetString(String key)
+   at schedule.auto.ScheduledTasks.BackupJob.Execute(IJobExecutionContext context) in D:\Techplus\schedule.auto\schedule.auto\ScheduleTasks\BackupJob.cs:line 12
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)
+   --- End of inner exception stack trace --- [See nested exception: System.Collections.Generic.KeyNotFoundException: Key item not found
+   at Quartz.Util.StringKeyDirtyFlagMap.GetString(String key)
+   at schedule.auto.ScheduledTasks.BackupJob.Execute(IJobExecutionContext context) in D:\Techplus\schedule.auto\schedule.auto\ScheduleTasks\BackupJob.cs:line 12
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)]
+2024-06-28 13:02:25.379 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Trigger instruction : NoInstruction
+2024-06-28 13:02:27.738 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:03:36.273 +07:00 [Information] [] [] Started application!
+2024-06-28 13:03:36.416 +07:00 [Information] [] [] Added Job: 601a10cf-fbbb-47cf-a7e5-6e297d4d4961
+2024-06-28 13:03:38.772 +07:00 [Information] [] [] Started application!
+2024-06-28 13:03:38.867 +07:00 [Information] [] [] Added Job: 7aff055e-edb5-4416-9ef3-cd6a5de4b0a9
+2024-06-28 13:03:40.228 +07:00 [Information] [] [] Started application!
+2024-06-28 13:03:40.327 +07:00 [Information] [] [] Added Job: bae823ec-d02a-4ab1-9742-44b311d77d07
+2024-06-28 13:03:51.580 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 13:03:51.595 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 13:03:51.602 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 13:03:51.602 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 13:03:51.604 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 13:03:51.607 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 13:03:51.607 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 13:03:51.607 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 13:03:51.610 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 13:03:51.612 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:03:51.620 +07:00 [Information] [] [] Start Job: a - bae823ec-d02a-4ab1-9742-44b311d77d07
+2024-06-28 13:03:51.693 +07:00 [Information] [] [] Time: 0 04 13 * * ?
+2024-06-28 13:03:51.695 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 13:04:00.009 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.bae823ec-d02a-4ab1-9742-44b311d77d07', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 13:04:00.011 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 13:04:00.025 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.bae823ec-d02a-4ab1-9742-44b311d77d07
+2024-06-28 13:57:37.633 +07:00 [Information] [] [] Started application!
+2024-06-28 13:57:37.780 +07:00 [Information] [] [] Added Job: 44e96ae0-c1eb-49d1-9492-7be451437710
+2024-06-28 14:02:36.269 +07:00 [Information] [] [] Started application!
+2024-06-28 14:02:36.431 +07:00 [Information] [] [] Added Job: 915afbff-cc8d-4b75-a45e-c6852705640a
+2024-06-28 14:03:27.430 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 14:03:27.447 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 14:03:27.461 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 14:03:27.461 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 14:03:27.466 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 14:03:27.466 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 14:03:27.467 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 14:03:27.467 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 14:03:27.471 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 14:03:27.472 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:03:27.556 +07:00 [Information] [] [] Created Job "Backup MISA" - "915afbff-cc8d-4b75-a45e-c6852705640a": "0 04 14 * * ?"
+2024-06-28 14:03:27.557 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:03:55.734 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 14:04:00.014 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.915afbff-cc8d-4b75-a45e-c6852705640a', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 14:04:00.017 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:04:00.033 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.915afbff-cc8d-4b75-a45e-c6852705640a
+2024-06-28 14:04:00.108 +07:00 [Information] [] [] Started job "Backup MISA" - "915afbff-cc8d-4b75-a45e-c6852705640a": "0 04 14 * * ?"
+2024-06-28 14:04:00.108 +07:00 [Information] [] [] Copy file from "\\192.168.100.221\01.Backup_NB" to "\\192.168.100.245\01.Backup_NB"
+2024-06-28 14:04:00.143 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240423141306_SME2023.mbk"
+2024-06-28 14:04:27.303 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:04:55.744 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:04:56.470 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:04:56.470 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240423141452_SME2023.mbk"
+2024-06-28 14:05:19.501 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:05:44.072 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:05:45.157 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:05:45.157 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240423143747_SME2023.mbk"
+2024-06-28 14:06:10.770 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:06:33.964 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:06:33.964 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240502161510_SME2023.mbk"
+2024-06-28 14:06:34.716 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:06:59.211 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:07:22.648 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:07:22.966 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:07:22.966 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240509161905_SME2023.mbk"
+2024-06-28 14:07:46.298 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:08:12.729 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:08:12.729 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240509163535_SME2023.mbk"
+2024-06-28 14:08:15.349 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:08:38.667 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:09:01.819 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:09:01.819 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240509172757_SME2023.mbk"
+2024-06-28 14:09:06.980 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:09:30.509 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:09:50.773 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:09:50.773 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240515181703_SME2023.mbk"
+2024-06-28 14:09:56.361 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:10:23.401 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:10:40.086 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:10:40.086 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240607180357_SME2023.mbk"
+2024-06-28 14:10:52.487 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:11:16.687 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:11:30.153 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:11:30.154 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240618120126_SME2023.mbk"
+2024-06-28 14:11:41.328 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:12:06.044 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:12:19.899 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:12:19.899 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240621181355_SME2023.mbk"
+2024-06-28 14:12:32.949 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:12:57.404 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:13:09.774 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:13:09.774 +07:00 [Information] [] [] Copying "\\192.168.100.221\01.Backup_NB"\"TECHPLUS_SOLUTION_2024_20240627180822_SME2023.mbk"
+2024-06-28 14:13:20.757 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:13:48.524 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:13:59.612 +07:00 [Information] [] [] Successed!!!
+2024-06-28 14:13:59.620 +07:00 [Information] [] [] Exites: 12, Success: 12, Error: 0
+2024-06-28 14:13:59.624 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Trigger instruction : NoInstruction
+2024-06-28 14:14:16.191 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:14:40.484 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:15:08.297 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:15:32.510 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:15:57.979 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:16:26.432 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:16:52.211 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:17:21.029 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:17:48.013 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 14:18:16.916 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 15:57:11.524 +07:00 [Information] [] [] Started application!
+2024-06-28 15:57:11.626 +07:00 [Information] [] [] Added Job: bf484878-1e85-4e0a-be0e-5d2f403f78ac
+2024-06-28 15:57:56.820 +07:00 [Information] [] [] Started application!
+2024-06-28 15:57:56.953 +07:00 [Information] [] [] Added Job: 1a88299a-7307-47b9-9f15-e8ab89e2455e
+2024-06-28 15:59:41.015 +07:00 [Information] [] [] Started application!
+2024-06-28 15:59:41.149 +07:00 [Information] [] [] Added Job: 6941b14b-5428-4a36-b546-b4874b1ff332
+2024-06-28 16:00:37.808 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:00:37.822 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 16:00:37.835 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 16:00:37.836 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 16:00:37.836 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 16:00:37.840 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 16:00:37.840 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 16:00:37.840 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 16:00:37.844 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:00:37.845 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:00:37.903 +07:00 [Error] [] [] convert date exec: System.FormatException: The input string '' was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at schedule.auto.Form1.<>c.<btnCreateSchedule_Click>b__7_3(misabackup_model o) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 154
+   at System.Linq.Enumerable.SelectListIterator`2.ToList()
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 154
+2024-06-28 16:00:37.913 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Ngày chạy không hợp lệ!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 154
+2024-06-28 16:01:03.700 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:01:28.416 +07:00 [Information] [] [] Started application!
+2024-06-28 16:01:28.602 +07:00 [Information] [] [] Added Job: 794bb899-a9ea-42b0-81a3-881b6a8fd4f0
+2024-06-28 16:02:36.381 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:02:36.397 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 16:02:36.411 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 16:02:36.411 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 16:02:36.412 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 16:02:36.416 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 16:02:36.416 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 16:02:36.416 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 16:02:36.420 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:02:36.421 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:02:36.473 +07:00 [Error] [] [] btnCreateSchedule_Click: System.FormatException: The input string '' was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at schedule.auto.Form1.<>c.<btnCreateSchedule_Click>b__7_5(misabackup_model o) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 156
+   at System.Linq.Enumerable.WhereListIterator`1.ToList()
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 156
+2024-06-28 16:02:50.604 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:02:50.605 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:02:50.605 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:03:25.179 +07:00 [Information] [] [] Started application!
+2024-06-28 16:03:25.287 +07:00 [Information] [] [] Added Job: f0612458-a6e0-4c8f-a6fb-63e7c92e2ce0
+2024-06-28 16:05:18.216 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:05:18.232 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 16:05:18.245 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 16:05:18.245 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 16:05:18.246 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 16:05:18.250 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 16:05:18.250 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 16:05:18.250 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 16:05:18.253 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:05:18.255 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:05:18.334 +07:00 [Information] [] [] Created Job "Backup MISA" - "f0612458-a6e0-4c8f-a6fb-63e7c92e2ce0": "0 06 16 * * ?"
+2024-06-28 16:05:18.334 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:05:41.634 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 16:06:00.010 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.f0612458-a6e0-4c8f-a6fb-63e7c92e2ce0', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 16:06:00.012 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:06:00.026 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.f0612458-a6e0-4c8f-a6fb-63e7c92e2ce0
+2024-06-28 16:06:00.105 +07:00 [Information] [] [] Started job "Backup MISA" - "f0612458-a6e0-4c8f-a6fb-63e7c92e2ce0": "0 06 16 * * ?"
+2024-06-28 16:06:00.105 +07:00 [Information] [] [] Copy file from "\\192.168.100.221\01.Backup_NB" to "\\192.168.100.245\01.Backup_NB"
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240423141306_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240423141452_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240423143747_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240502161510_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240509161905_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240509163535_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240509172757_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240515181703_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240607180357_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240618120126_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240621181355_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.146 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240627180822_SME2023.mbk" existed, skip
+2024-06-28 16:06:00.147 +07:00 [Information] [] [] Total: 12, Success: 0, Existed: 12, Error: 0
+2024-06-28 16:06:00.150 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Trigger instruction : NoInstruction
+2024-06-28 16:06:23.296 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:06:48.330 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:07:15.885 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:07:41.431 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:08:08.484 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:08:34.389 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:09:04.367 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:09:29.016 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:09:56.098 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:10:21.902 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:10:45.643 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:11:11.346 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:11:41.093 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:12:04.419 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:31:20.142 +07:00 [Information] [] [] Started application!
+2024-06-28 16:31:20.251 +07:00 [Information] [] [] Added Job: c1d19709-8a78-44ff-89f9-c2b1f92e19ed
+2024-06-28 16:31:53.311 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:31:53.327 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 16:31:53.341 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 16:31:53.341 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 16:31:53.341 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 16:31:53.345 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 16:31:53.346 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 16:31:53.346 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 16:31:53.349 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:31:53.350 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:31:53.427 +07:00 [Information] [] [] Created Job "Backup MISA" - "c1d19709-8a78-44ff-89f9-c2b1f92e19ed": "0 32 16 * * ?"
+2024-06-28 16:31:53.428 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 16:32:00.012 +07:00 [Debug] [Quartz.Simpl.SimpleJobFactory] [] Producing instance of Job 'DEFAULT.c1d19709-8a78-44ff-89f9-c2b1f92e19ed', class=schedule.auto.ScheduledTasks.BackupJob
+2024-06-28 16:32:00.014 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:32:00.025 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Calling Execute on job DEFAULT.c1d19709-8a78-44ff-89f9-c2b1f92e19ed
+2024-06-28 16:32:00.105 +07:00 [Information] [] [] Started job "Backup MISA" - "c1d19709-8a78-44ff-89f9-c2b1f92e19ed": "0 32 16 * * ?"
+2024-06-28 16:32:00.105 +07:00 [Information] [] [] Copy file from "\\192.168.100.221\01.Backup_NB" to "\\192.168.100.245\01.Backup_NB"
+2024-06-28 16:32:00.141 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240423141306_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240423141452_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240423143747_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240502161510_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240509161905_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240509163535_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240509172757_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240515181703_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240607180357_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240618120126_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240621181355_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] File "TECHPLUS_SOLUTION_2024_20240627180822_SME2023.mbk" existed, skip
+2024-06-28 16:32:00.142 +07:00 [Information] [] [] Total: 12, Success: 0, Existed: 12, Error: 0
+2024-06-28 16:32:00.145 +07:00 [Debug] [Quartz.Core.JobRunShell] [] Trigger instruction : NoInstruction
+2024-06-28 16:32:30.952 +07:00 [Information] [] [] Started application!
+2024-06-28 16:32:31.062 +07:00 [Information] [] [] Added Job: e29323ff-cca5-40ea-968d-bedc4a1cfe32
+2024-06-28 16:33:10.401 +07:00 [Information] [] [] Started application!
+2024-06-28 16:33:10.495 +07:00 [Information] [] [] Added Job: e426d535-df29-48aa-9f9c-1f69693e6c34
+2024-06-28 16:33:36.676 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:33:36.691 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 16:33:36.706 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 16:33:36.706 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 16:33:36.710 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 16:33:36.711 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 16:33:36.711 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 16:33:36.712 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 16:33:36.715 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:33:36.716 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:33:36.792 +07:00 [Information] [] [] Created Job "bk misa" - "e426d535-df29-48aa-9f9c-1f69693e6c34": "0 34 16 * * ?"
+2024-06-28 16:33:36.793 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 16:33:38.210 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:33:38.211 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:33:38.213 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:33:38.214 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:33:38.214 +07:00 [Information] [] [] Created Job "bk misa" - "e426d535-df29-48aa-9f9c-1f69693e6c34": "0 34 16 * * ?"
+2024-06-28 16:33:38.215 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 1 triggers
+2024-06-28 16:33:47.136 +07:00 [Error] [] [] btnCreateSchedule_Click: System.Exception: Không có job đang mở!!!
+   at schedule.auto.Form1.btnCreateSchedule_Click(Object sender, EventArgs e) in D:\Techplus\schedule.auto\schedule.auto\Form1.cs:line 134
+2024-06-28 16:33:56.692 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:33:56.692 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:33:56.692 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:33:57.934 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:33:57.934 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:33:57.934 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:34:05.092 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:34:05.092 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:34:05.092 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:34:05.093 +07:00 [Information] [] [] Created Job "bk misa" - "e426d535-df29-48aa-9f9c-1f69693e6c34": "0 34 16 * * ?"
+2024-06-28 16:34:05.093 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:34:09.580 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:34:09.581 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:34:09.581 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:34:09.581 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:34:09.581 +07:00 [Information] [] [] Created Job "bk misa" - "e426d535-df29-48aa-9f9c-1f69693e6c34": "0 35 16 * * ?"
+2024-06-28 16:34:09.581 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:31.950 +07:00 [Information] [] [] Started application!
+2024-06-28 16:35:32.072 +07:00 [Information] [] [] Added Job: db4c2390-0e0b-4abf-8b9b-6872fb38c994
+2024-06-28 16:35:34.377 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:34.391 +07:00 [Debug] [Quartz.Simpl.TaskSchedulingThreadPool] [] TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2024-06-28 16:35:34.400 +07:00 [Information] [Quartz.Core.SchedulerSignalerImpl] [] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-28 16:35:34.400 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Quartz Scheduler created
+2024-06-28 16:35:34.404 +07:00 [Information] [Quartz.Simpl.RAMJobStore] [] RAMJobStore initialized.
+2024-06-28 16:35:34.404 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Quartz Scheduler 3.8.1.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-28 16:35:34.405 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-28 16:35:34.405 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-28 16:35:34.408 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:34.409 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:34.415 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:38.846 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:38.847 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:38.847 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:38.847 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:39.547 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:39.547 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:39.547 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:39.547 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:39.958 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:39.958 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:39.958 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:39.958 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:40.220 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:40.221 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:40.221 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:40.221 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:40.430 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:40.430 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:40.430 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:40.430 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:43.194 +07:00 [Information] [] [] Added Job: f05fb824-4423-4e71-baef-4b02088a7a8f
+2024-06-28 16:35:43.764 +07:00 [Information] [] [] Added Job: 21eaf95d-fdd6-4e66-b888-3a8e1dcd3b2c
+2024-06-28 16:35:44.137 +07:00 [Information] [] [] Added Job: e9342e2a-068b-4820-8b65-3955a8b3f858
+2024-06-28 16:35:45.111 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:45.112 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:45.112 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:45.112 +07:00 [Information] [] [] Deleted job "" - "db4c2390-0e0b-4abf-8b9b-6872fb38c994"
+2024-06-28 16:35:45.112 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:45.112 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:45.112 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:45.112 +07:00 [Information] [] [] Deleted job "" - "f05fb824-4423-4e71-baef-4b02088a7a8f"
+2024-06-28 16:35:45.159 +07:00 [Error] [] [] Error create job: System.Exception: Chưa nhập đủ thông tin của các jobs!!!
+   at schedule.auto.Helper.Jobs.Createjob(misabackup_model item) in D:\Techplus\schedule.auto\schedule.auto\Helper\Jobs.cs:line 38
+2024-06-28 16:35:46.648 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:46.648 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:46.648 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:46.648 +07:00 [Information] [] [] Deleted job "" - "21eaf95d-fdd6-4e66-b888-3a8e1dcd3b2c"
+2024-06-28 16:35:46.659 +07:00 [Error] [] [] Error create job: System.Exception: Chưa nhập đủ thông tin của các jobs!!!
+   at schedule.auto.Helper.Jobs.Createjob(misabackup_model item) in D:\Techplus\schedule.auto\schedule.auto\Helper\Jobs.cs:line 38
+2024-06-28 16:35:47.594 +07:00 [Information] [Quartz.Impl.StdSchedulerFactory] [] Default Quartz.NET properties loaded from embedded resource file
+2024-06-28 16:35:47.594 +07:00 [Debug] [Quartz.Core.QuartzSchedulerThread] [] Batch acquisition of 0 triggers
+2024-06-28 16:35:47.594 +07:00 [Information] [Quartz.Core.QuartzScheduler] [] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2024-06-28 16:35:47.594 +07:00 [Information] [] [] Deleted job "" - "e9342e2a-068b-4820-8b65-3955a8b3f858"
+2024-06-28 16:35:47.605 +07:00 [Error] [] [] Error create job: System.Exception: Chưa nhập đủ thông tin của các jobs!!!
+   at schedule.auto.Helper.Jobs.Createjob(misabackup_model item) in D:\Techplus\schedule.auto\schedule.auto\Helper\Jobs.cs:line 38
+2024-06-28 16:56:26.452 +07:00 [Information] [] [] Started application!
+2024-06-28 16:56:26.566 +07:00 [Information] [] [] Added Job: edb4ee85-d5f8-4e78-9e8e-a4f4e6079479
+2024-06-28 16:59:20.243 +07:00 [Information] [] [] Started application!
+2024-06-28 16:59:20.350 +07:00 [Information] [] [] Added Job: 08179f63-9293-4d70-8fab-c3367b47889a
+2024-06-28 17:01:50.954 +07:00 [Information] [] [] Started application!
+2024-06-28 17:01:51.134 +07:00 [Information] [] [] Added Job: 53ca763d-8ad3-4ab1-b2c5-92425a3d1dee
+2024-06-28 17:01:54.895 +07:00 [Information] [] [] Started application!
+2024-06-28 17:01:54.978 +07:00 [Information] [] [] Added Job: 94d4763b-05d5-4b1b-aa44-589c14bbfde0
+2024-06-28 17:05:32.605 +07:00 [Information] [] [] Started application!
+2024-06-28 17:05:32.741 +07:00 [Information] [] [] Added Job: 59aa6e8b-87d2-46e9-a4c2-f8f6b548dc93
+2024-06-28 17:05:45.758 +07:00 [Information] [] [] Started application!
+2024-06-28 17:05:45.915 +07:00 [Information] [] [] Added Job: cf79ee3b-3c4e-460a-95bc-d605045da8e1
+2024-06-28 17:09:45.905 +07:00 [Information] [] [] Started application!
+2024-06-28 17:09:46.015 +07:00 [Information] [] [] Added Job: 8fd1b037-f6ae-4199-8ed4-67ccf16a8d4f
+2024-06-28 17:17:02.720 +07:00 [Information] [] [] Started application!
+2024-06-28 17:17:02.870 +07:00 [Information] [] [] Added Job: 65e4d5a1-d125-487c-a7b8-4e5a0ce3f55e
+2024-06-28 17:41:44.462 +07:00 [Information] [] [] Started application!
+2024-06-28 17:41:44.855 +07:00 [Information] [] [] Added Job: d1e98a1b-42a8-49d7-a135-81aaac883ffb
+2024-06-28 17:41:47.642 +07:00 [Information] [] [] Started application!
+2024-06-28 17:41:47.993 +07:00 [Information] [] [] Added Job: 03c3e1a3-c2a1-4440-b0cb-07b0746138a5
+2024-06-28 17:41:49.497 +07:00 [Information] [] [] Started application!
+2024-06-28 17:41:49.859 +07:00 [Information] [] [] Added Job: b2e4711a-b75f-4bbd-a60c-6f7b90c28541
+2024-06-28 17:41:51.367 +07:00 [Information] [] [] Started application!
+2024-06-28 17:41:51.731 +07:00 [Information] [] [] Added Job: 9ce5ff4c-abfc-4f06-ae93-2c009a20c95a
+2024-06-28 17:41:53.101 +07:00 [Information] [] [] Started application!
+2024-06-28 17:41:53.419 +07:00 [Information] [] [] Added Job: eb66f717-a9c4-4b9f-bb74-a00564145e5f
+2024-06-28 17:42:06.599 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:07.286 +07:00 [Information] [] [] Added Job: a4bdb811-e24e-483f-b01e-52e823a55d55
+2024-06-28 17:42:23.305 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:23.687 +07:00 [Information] [] [] Added Job: 593b51ee-4ce9-4408-83fb-f6e0bc0ce21d
+2024-06-28 17:42:26.216 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:26.556 +07:00 [Information] [] [] Added Job: 5aba10d5-f2f8-4bde-b234-fa1a1e8d02aa
+2024-06-28 17:42:35.127 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:35.481 +07:00 [Information] [] [] Added Job: ef75904a-480c-48d0-9909-5883e248ab64
+2024-06-28 17:42:45.977 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:46.422 +07:00 [Information] [] [] Added Job: 68c4f851-5a4a-4922-83bc-08b3894a14c3
+2024-06-28 17:42:47.917 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:48.338 +07:00 [Information] [] [] Added Job: 5b43f7b0-763a-4ddf-a576-18e2be18c4c5
+2024-06-28 17:42:49.685 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:50.535 +07:00 [Information] [] [] Started application!
+2024-06-28 17:42:50.889 +07:00 [Information] [] [] Added Job: 24af8926-59c9-48a0-a8f2-2affb42ff8b1
+2024-06-28 17:45:30.077 +07:00 [Information] [] [] Started application!
+2024-06-28 17:45:30.339 +07:00 [Information] [] [] Added Job: 811d3ad0-4bba-4672-b40d-736bb5415895
